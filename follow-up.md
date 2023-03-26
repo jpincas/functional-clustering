@@ -43,3 +43,13 @@ Make one or more goals for each cluster.  Mix short, medium and long term goals.
 ## Mirror
 
 Excercise extreme caution with this one.  Have somebody else do the excercise as if they were you.  
+
+---
+- [Home](/functional-clustering)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

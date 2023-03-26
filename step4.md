@@ -15,3 +15,13 @@ This stage can take just as long as the clustering process itself and again, len
 
 - Words are powerful, so choose them carefully
 - Be as narrow as possible
+
+---
+- [Home](/functional-clustering)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

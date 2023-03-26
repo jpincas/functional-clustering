@@ -28,3 +28,13 @@ If a week or more has gone by without you making any changes to your ‘rejected
 - Use a temporary ‘not sure’ pile, but eliminate it before the end of this stage
 - Prune as much as possible
 - Pay close attention to the feelings produced when ‘rejecting’ an item
+
+---
+- [Home](/functional-clustering)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

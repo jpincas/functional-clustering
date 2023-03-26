@@ -12,3 +12,13 @@ Whilst you can probably do the excercise in 2 hours, I think it’s better to ta
 - A marker pen (nice and bold, like a Sharpie)
 - A desk where you can leave everything in place for the duration of the excercise (potentially multiple months)
 - A big piece of card, perhaps A0 size, to stick everything down at the end
+
+---
+- [Home](/functional-clustering)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

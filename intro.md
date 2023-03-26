@@ -1,9 +1,14 @@
-I’ve been grappling with being a ‘generalist’ rather than a ‘specialist’ for basically my entire adult life.  I envied people who could clearly define themselves with a single word or phrase like ‘musician’ or ‘writer’.  Everybody told me that being a generalist made me unique, but I never felt that way.  I always just felt like a jack-of-all-trades, a professional amateur, an imposter.
+# Introducing The Excercise
 
-In late 2022, I finally found a solution to my problem.  It didn’t come in the form of acceptance of my generalism, nor was it a decision to pivot to being an outright specialist (it’s probably too late in life for me to do that, even if I could).  Instead it came in the form of a simple excersise that gave me clarity, focus and insight into the multiple areas of my life and personality that have always seemed to disparate.
+The main part of the excercise involves writing things down on little slips of paper and organising and reorganising those slips - that’s what it comes down to.  There’s a little more to it, of course, and we’ll come onto that in due course, but that’s enough for now.
 
-The excercise is simple and anyone can do it.  If you’re anything like me it will give you a new level of clarity, focus, insight, understanding and motivation.
+You can do the excercise alone, or you can have someone who has already done it guide you through it.  I tend to find that poeple do much better if they have a guide or at least someone to bounce thoughts and ideas off while they are going through the process.  People who know you well will be able to tease out things that don’t immediately occur to you yourself.  It makes it more fun too.
 
-If you can easily describe yourself with one word and don’t spend too much time thinking about what your life means, where it’s going, how it all fits together etc., this probably isn’t for you.  If like me, however, your life seems like a giant puzzle and it keeps you awake at night, I truly believe the excercise has the potential to be life changing.
+Whilst you can probably do the excercise in 2 hours, I think it’s better to take it much, much slower.  I actually recommend anywhere between 6-12 weeks! Each phase is done best if you really let it sit and stew for extended periods of time.  I will explain why as I go through each phase.  Please, take your time.
 
-One last thing.  This is not a commercial product or service.  I’ve written all this down because I think it could be valuable to a great many people.  If you find value in this, please share it widely and freely - even better, coach someone through the excercise once you’ve done it yourself!
+## You will need:
+
+- 2-3 sheets of A4 paper, cut up into little strips (approximately 1cm x 6cm)
+- A marker pen (nice and bold, like a Sharpie)
+- A desk where you can leave everything in place for the duration of the excercise (potentially multiple months)
+- A big piece of card, perhaps A0 size, to stick everything down at the end

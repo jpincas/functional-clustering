@@ -35,3 +35,13 @@ Once your clusters have remaining unchanged for at least two weeks, you’re pro
 - Some slips from stage 1 might be good candidates for cluster ‘title’, rotate them vertical
 - Your clusters are highly personal, forget about fixed definitions of ‘areas of life’ you’ve heard before
 - Don’t be afraid to reorganise at any point
+
+---
+- [Home](/functional-clustering)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

@@ -13,10 +13,10 @@ If you can easily describe yourself with one word and don’t spend too much tim
 
 **This is not a commercial product or service.  It's a simple website where I’ve written out how to do the excercise because I think it could be valuable to many people.  If you get something out of it, please share it widely and freely - even better, coach someone through the excercise once you’ve done it yourself!**
 
-- [Introducing The Excercise](/jpincas/functional-clustering/intro)
-- [Step 1: Taking Inventory](/jpincas/functional-clustering/step1)
-- [Step 2: Pruning](/jpincas/functional-clustering/step2)
-- [Step 3: Clustering](/jpincas/functional-clustering/step3)
-- [Step 4: Defining](/jpincas/functional-clustering/step4)
-- [Finishing The Excercise](/jpincas/functional-clustering/finishing)
-- [Follow-Up Excercises](/jpincas/functional-clustering/follow-up)
+- [Introducing The Excercise](/functional-clustering/intro)
+- [Step 1: Taking Inventory](/functional-clustering/step1)
+- [Step 2: Pruning](/functional-clustering/step2)
+- [Step 3: Clustering](/functional-clustering/step3)
+- [Step 4: Defining](/functional-clustering/step4)
+- [Finishing The Excercise](/functional-clustering/finishing)
+- [Follow-Up Excercises](/functional-clustering/follow-up)

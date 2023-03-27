@@ -7,7 +7,7 @@ I should say that you are not making a chronological list of all the things you�
 
 - Every hobby you’ve ever had
 - Every subject you studied to A-Level and beyond
-- Anything you’ve studied or research independently as an adult
+- Anything you’ve studied or researched independently as an adult
 - Every sport/physical pursuit you’ve tried at least twice
 - All areas of general intellectual curiosity
 - Other things you like to do in your free time
@@ -45,10 +45,10 @@ If you do happen to think of anything else once you’ve advanced from this stag
 
 ---
 - [Home](/functional-clustering)
-- [Introducing The Excercise](/functional-clustering/intro)
+- [Introducing The Exercise](/functional-clustering/intro)
 - [Step 1: Taking Inventory](/functional-clustering/step1)
 - [Step 2: Pruning](/functional-clustering/step2)
 - [Step 3: Clustering](/functional-clustering/step3)
 - [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Excercise](/functional-clustering/finishing)
-- [Follow-Up Excercises](/functional-clustering/follow-up)
+- [Finishing The Exercise](/functional-clustering/finishing)
+- [Follow-Up Exercises](/functional-clustering/follow-up)

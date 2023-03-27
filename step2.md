@@ -7,7 +7,7 @@ Your job in this stage is to ‘reject’ a large number of those little slips o
 
 What does ‘reject’ mean? It means you are ready to say goodbye to that ‘thing’, whatever it is.  If you’re the type that has trouble getting rid of an old t-shirt or a ceramic doll that’s been in a box for 20 years, you’re going to struggle with this, but it's the most crucial part of the excercise.
 
-You should ‘say goodbye’ to the things that you are ready to accept no longer, and at least in the short-to-medium-term, will no longer, form part of your life.  These could be hobbies, interests, people, television shows, habits - anything goes.  The purpose is to create space. 
+You should ‘say goodbye’ to the things that you are ready to accept no longer, and at least in the short-to-medium-term, will no longer, form part of your life.  These could be hobbies, interests, people, television shows, habits - anything goes.  The purpose is to create space. This doesn't mean that you will never do that thing again, it just means you won't expend any excess energy on thinking about it, worrying about it and/or fretting about the fact that you are not doing it.
 
 You should undertake this process from a place of love and self-kindness.  If you’ve ever seen how Mari Kondo teaches her clients how to declutter their homes, you’ll understand the process.  Think about each slip of paper - what do you feel when you read that word? Does it spark joy and excitement? Or does it trigger feelings of dread or guilt? If you feel a sense of release and relief when 'rejecting' an item, that's a sure sign it's been taking up mental space and causing unnecessary anxiety.
 
@@ -28,6 +28,7 @@ If a week or more has gone by without you making any changes to your ‘rejected
 - Use a temporary ‘not sure’ pile, but eliminate it before the end of this stage
 - Prune as much as possible
 - Pay close attention to the feelings produced when ‘rejecting’ an item. Relief is a good sign you're making the right choice.
+- Rejection doesn't necessarily mean you will never do that thing again
 
 ---
 - [Home](/functional-clustering)

@@ -1,24 +1,24 @@
-# Introducing The Excercise
+# Introducing The Exercise
 
-The main part of the excercise involves writing things down on little slips of paper and organising and reorganising those slips - that’s what it comes down to.  There’s a little more to it, of course, and we’ll come onto that in due course, but that’s enough for now.
+The main part of the exercise involves writing things down on little slips of paper and organising and reorganising those slips - that’s what it comes down to.  There’s a little more to it, of course, and we’ll come onto that in due course, but that’s enough for now.
 
-You can do the excercise alone, or you can have someone who has already done it guide you through it.  I tend to find that poeple do much better if they have a guide or at least someone to bounce thoughts and ideas off while they are going through the process.  People who know you well will be able to tease out things that don’t immediately occur to you yourself.  It makes it more fun too.
+You can do the exercise alone, or you can have someone who has already done it guide you through it.  I tend to find that poeple do much better if they have a guide or at least someone to bounce thoughts and ideas off while they are going through the process.  People who know you well will be able to tease out things that don’t immediately occur to you yourself.  It makes it more fun too.
 
-Whilst you can probably do the excercise in 2 hours, I think it’s better to take it much, much slower.  I actually recommend anywhere between 6-12 weeks! Each phase is done best if you really let it sit and stew for extended periods of time.  I will explain why as I go through each phase.  Please, take your time.
+Whilst you can probably do the exercise in 2 hours, I think it’s better to take it much, much slower.  I actually recommend anywhere between 6-12 weeks! Each phase is done best if you really let it sit and stew for extended periods of time.  I will explain why as I go through each phase.  Please, take your time.
 
 ## You will need:
 
 - 2-3 sheets of A4 paper, cut up into little strips (approximately 1cm x 6cm)
 - A marker pen (nice and bold, like a Sharpie)
-- A desk where you can leave everything in place for the duration of the excercise (potentially multiple months)
+- A desk where you can leave everything in place for the duration of the exercise (potentially multiple months)
 - A big piece of card, perhaps A0 size, to stick everything down at the end
 
 ---
 - [Home](/functional-clustering)
-- [Introducing The Excercise](/functional-clustering/intro)
+- [Introducing The Exercise](/functional-clustering/intro)
 - [Step 1: Taking Inventory](/functional-clustering/step1)
 - [Step 2: Pruning](/functional-clustering/step2)
 - [Step 3: Clustering](/functional-clustering/step3)
 - [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Excercise](/functional-clustering/finishing)
-- [Follow-Up Excercises](/functional-clustering/follow-up)
+- [Finishing The Exercise](/functional-clustering/finishing)
+- [Follow-Up Exercises](/functional-clustering/follow-up)

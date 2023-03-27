@@ -26,11 +26,12 @@ I should say that you are not making a chronological list of all the things you�
 - Anything you think you should care deeply about
 - Groups/clubs you belong to
 - Specific groups/circles of friends
-- Subscriptions
+- Subscriptions (newspapers, magazines, podcasts, etc)
 - Experiences you’ve had
 - Important trips you’ve been on
 - Your bucket list
 - Important people in your life
+- Important tools you use regularly (personally and/or professionally)
 
 Above all, don’t filter: just write it down.  Capture everything - this is not the stage to apply any thought or analysis - just take stock.  Be extremely thorough, think back through your past, year by year if necessary.  It’s very important you capture everything, otherwise the rest of the excercise won’t work as well.
 

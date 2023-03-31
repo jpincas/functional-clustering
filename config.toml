@@ -4,3 +4,4 @@ title = 'Functional Clustering'
 theme = 'hugo-book'
 [params]
   BookSearch = false
+  BookLogo = "logo.png"

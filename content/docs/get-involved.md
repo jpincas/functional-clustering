@@ -27,4 +27,3 @@ Please tell others about this exercise.  Point them to this website so they can 
 
 If you have the time, please consider coaching someone else through the the excercise.
 
-

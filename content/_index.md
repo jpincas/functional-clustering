@@ -1,3 +1,7 @@
+---
+title: "Welcome to Functional Clustering"
+---
+
 # Welcome to Functional Clustering
 ## An exercise in focus and self-definition for multifaceted personalities
 
@@ -12,3 +16,5 @@ The exercise is simple and anyone can do it.  If you’re anything like me it wi
 If you can easily describe yourself with one word and don’t spend too much time thinking about how the various elements of your life and personality fit together, this probably won't help you much.  If, on the other hand, your life seems like a giant puzzle and it keeps you awake at night, I believe this exercise has the potential to be life changing.
 
 >> **This is not a commercial product or service.  It's a simple website where I’ve written out how to do the excercise because I think it could be valuable to many people.  If you get something out of it, please share it widely and freely - even better, coach someone through the exercise once you’ve done it yourself!**
+
+

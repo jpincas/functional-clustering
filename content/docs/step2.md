@@ -1,3 +1,9 @@
++++
+weight = 3
+title = "2. Pruning"
++++
+
+
 # Stage 2
 ## Pruning
 
@@ -30,12 +36,3 @@ If a week or more has gone by without you making any changes to your ‘rejected
 - Pay close attention to the feelings produced when ‘rejecting’ an item. Relief is a good sign you're making the right choice.
 - Rejection doesn't necessarily mean you will never do that thing again
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

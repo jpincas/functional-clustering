@@ -1,3 +1,8 @@
++++
+weight = 6
+title = "Finishing the Excercise"
++++
+
 # Finishing the the Exercise
 
 Congratulations - you’re done!  
@@ -16,12 +21,3 @@ I can define them and think and talk about them in a more structured way.
 
 **In some ways I feel like 7 specialists all in one.**  
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

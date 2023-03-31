@@ -1,3 +1,9 @@
++++
+weight = 2
+title = "1. Taking Inventory"
++++
+
+
 # Step 1
 ## Taking Inventory
 
@@ -44,12 +50,3 @@ If you do happen to think of anything else once you’ve advanced from this stag
 - Write down absolutely everything
 - Don’t filter
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

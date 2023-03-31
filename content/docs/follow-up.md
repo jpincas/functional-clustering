@@ -1,3 +1,8 @@
++++
+weight = 7
+title = "Follow-Up Exercises"
++++
+
 # Follow-Up Exercises
 
 Over time, I devised a series of follow-up exercises that are designed to lock down the clusters and make them more and more engrained in my psyche.  There are, of course, loads of things you can do, but here are some ideas.
@@ -53,12 +58,3 @@ Make one or more goals for each cluster.  Mix short, medium and long term goals.
 
 Exercise extreme caution with this one.  Have somebody else do the exercise as if they were you!
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

@@ -1,3 +1,8 @@
++++
+weight = 3
+title = "3. Clustering"
++++
+
 # Stage 3
 ## Clustering
 
@@ -35,12 +40,3 @@ Once your clusters have remaining unchanged for at least two weeks, you’re pro
 - Don’t be afraid to reorganise at any point
 - Take lots of photos as you go
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

@@ -1,3 +1,9 @@
+
++++
+weight = 5
+title = "4. Defining"
++++
+
 # Stage 4
 ## Defining
 
@@ -16,12 +22,3 @@ This stage can take just as long as the clustering process itself and again, len
 - Words are powerful, so choose them carefully
 - Be as narrow as possible, without pigeonholing yourself
 
----
-- [Home](/functional-clustering)
-- [Introducing The Exercise](/functional-clustering/intro)
-- [Step 1: Taking Inventory](/functional-clustering/step1)
-- [Step 2: Pruning](/functional-clustering/step2)
-- [Step 3: Clustering](/functional-clustering/step3)
-- [Step 4: Defining](/functional-clustering/step4)
-- [Finishing The Exercise](/functional-clustering/finishing)
-- [Follow-Up Exercises](/functional-clustering/follow-up)

@@ -1,0 +1,6 @@
+baseURL = 'https://functionalclustering.org/'
+languageCode = 'en-us'
+title = 'Functional Clustering'
+theme = 'hugo-book'
+[params]
+  BookSearch = false
